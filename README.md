@@ -1,5 +1,3 @@
-Kullandığım yapay zekalar : ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
 Kullandığım tarayıcı uygulamar : [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) , [![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)](#) , [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)  
 
 Kullandığım arama motorları : [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#) , [![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
